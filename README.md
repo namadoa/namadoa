@@ -11,4 +11,6 @@ In this repository you can find some projects that I have developed along my und
 
 # Knowledeges 💡
 
+## Databases 
 
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/ofaaoficial/)]
