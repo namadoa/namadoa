@@ -15,5 +15,5 @@ In this repository you can find some projects that I have developed along my und
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/ofaaoficial/)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/ofaaoficial/)
+![MySQL](https://img.shields.io/badge/-Python-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/ofaaoficial/)
 
