@@ -7,5 +7,8 @@
 
 I'm **Nicolás Amado Aristizabal** 🤵🏻 , a student of geological engineering and Data Science from Bogotá, Colombia . Currently I'm working in the Geoscience Museum of Faculty of Mines | National University of Colombia.
 
+In this repository you can find some projects that I have developed along my undergrade studies and others about my learning process.
+
+#Knowledeges 💡
 
 
