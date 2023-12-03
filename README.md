@@ -5,7 +5,7 @@
 
 <br /> 
 
-I'm **Nicolás Amado Aristizabal** 🤵🏻 , a student of geological engineering and Data Science from Bogotá, Colombia . Currently I'm working in the Geoscience Museum of Faculty of Mines | National University of Colombia.
+I'm **Nicolás Amado Aristizabal** 🤵🏻 , a geological engineer and Machine Learning Engineer from Bogotá, Colombia . Currently I'm working as a machine learning engineer and doing my Msc. degree in computer science, I'll finish this program at the end of 2024.
 
 In this repository you can find some projects that I have developed along my undergrade studies and others about my learning process.
 
