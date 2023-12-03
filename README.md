@@ -17,9 +17,41 @@ In this repository you can find some projects that I have developed along my und
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/ofaaoficial/)
 
+* **Redis**
+
 ## Language Progamming
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> **Python**
 
 <code><img height="20" src="https://github.com/namadoa/analytical-foundations/blob/main/Rstudio.svg"></code> 
+* **C++**
+* **JavaScript**
+
+## Machine Learning Tools
+* **Tensorflow**
+* **Triton**
+* **TensorRT**
+* **scikit-learn**
+* **numba**
+* **numpy**
+* **pytorch**
+* **DVC**
+* **MlFlow**
+* **Weigths and Biases**
+* **Azure Machine Learning**
+* **Vertex AI**
+
+## API Tools
+* **FastAPI**
+* **Flask**
+* **gRPC**
+* **Pydantic**
+* **Hydra**
+
+## Other Tools
+* **Docker**
+* **docker commpose**
+* **CI/CD**
+* **Dev containers**
+
 
